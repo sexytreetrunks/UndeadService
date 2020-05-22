@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UndeadService</string>
+    <string name="app_package_name">com.treetrunks.undeadservice</string>
+    <string name="noti_msg">I\'m running~</string>
+</resources>
